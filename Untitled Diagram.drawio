@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2024-02-16T05:43:47.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fpgqvL7KMVrXFAYbM_lc" version="23.1.5" type="github">
+  <diagram name="Page-1" id="KQreN4Fiiz2bsGs_SPja">
+    <mxGraphModel dx="1306" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zo5_iBaEko599MKNzekE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zo5_iBaEko599MKNzekE-1" target="Zo5_iBaEko599MKNzekE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zo5_iBaEko599MKNzekE-1" target="Zo5_iBaEko599MKNzekE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zo5_iBaEko599MKNzekE-1" target="Zo5_iBaEko599MKNzekE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-1" value="Switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-2" value="Firewall_a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-3" value="Firewall_b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-4" value="Firewall_c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-8" value="PAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-9" value="Workloads&lt;br&gt;+ SOC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-10" value="Endpoints" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-11" value="ESXi_LAX1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-12" value="ESXi_LAX2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-13" value="Hacker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-14" value="Proxmox_NYC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5_iBaEko599MKNzekE-15" value="Proxmox_CDG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
